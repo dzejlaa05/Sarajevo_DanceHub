@@ -1,0 +1,8 @@
+openapi: 3.0.3
+info:
+  title: Sarajevo DanceHub API
+  version: 0.1.0-draft
+  description: Draft placeholder for the REST API. Routes will be specified in a later milestone.
+servers:
+  - url: http://localhost:8000
+paths: {}
